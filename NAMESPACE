@@ -2,9 +2,13 @@
 
 export(create_population)
 export(demulsify)
+export(dilute)
+export(dilute_to_density)
 export(emulsify)
+export(grow)
 export(is_empty)
 export(is_emulsified)
+export(mutate)
 export(num_droplets)
 export(popsize)
 importFrom(tibble,tibble)
