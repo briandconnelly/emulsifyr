@@ -3,7 +3,7 @@
 Installation
 ------------
 
-growthcurve is not quite ready to be available on
+emulsifyr is not quite ready to be available on
 [CRAN](http://cran.r-project.org), but you can use
 [devtools](http://cran.r-project.org/web/packages/devtools/index.html)
 to install the current development version:
